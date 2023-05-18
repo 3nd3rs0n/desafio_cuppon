@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    list-style: none;
+}
+
+body{
+    position: relative;
+    padding-bottom: 110px;
+    min-height: 100vh;
+}
+
+#tarjetas{
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+.card ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+#informacion{
+    margin-top: 1rem; 
+    margin-bottom: 1rem;
+
+}
+
+section{
+    background-color: #28a745;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+
+}
+
+.precio{
+color: #28A745;
+}
+
+p {
+    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+section h5 {
+    color: white;
+}
+
+
+
+
+
+
